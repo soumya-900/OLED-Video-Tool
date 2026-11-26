@@ -4,7 +4,7 @@
 
 Turn videos, GIFs and images into tiny `.olv` files, upload them over WiFi to an ESP32, and play them on an OLED screen. Optional WS2812B LED effects included. The converter runs 100% offline in your browser, and no external libraries are needed on the ESP32.
 
-▶️ **Live tool:** https://soumya-900.github.io/OLED-Video-Tool/Fellow_Inventor_OLED_Video_Tool_LED_Live.html
+▶️ **Live tool:** https://soumya-900.github.io/OLED-Video-Tool/
 
 ## Features
 
