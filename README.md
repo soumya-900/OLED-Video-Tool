@@ -63,3 +63,10 @@ Free to use. © Fellow Inventor. Rebranding or removing the Fellow Inventor attr
 
 - YouTube: **Fellow Inventor**
 - Instagram: **@fellow_inventor_diy**
+
+## Support
+
+This tool is free. If it helps you, a small donation helps me make
+more phone-friendly tools and projects. 🙏
+
+UPI: fellowinventor@naviaxis
